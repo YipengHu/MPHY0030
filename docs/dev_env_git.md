@@ -1,6 +1,6 @@
 # Work with Git
 - This document introduces some basic usage of [Git](https://git-scm.com/), a distributed versioning system for tracking and managing source code changes during software development. 
-- [WEISSLab](http://weisslab.cs.ucl.ac.uk/) and [GitHub](https://github.com/) are two project hosting services. The [module repository](https://weisslab.cs.ucl.ac.uk/WEISSTeaching/mphy0030) is hosted on the former, while you will submit your coursework to the latter. 
+- [WEISSLab](http://weisslab.cs.ucl.ac.uk/) and [GitHub](https://github.com/) are two project hosting services. The [module repository](https://weisslab.cs.ucl.ac.uk/yipenghu/mphy0030) is hosted on the former, while you will submit your coursework to the latter. 
 - For more information and tutorial, have a look at the book/documentation [*Pro Git*](https://git-scm.com/book/en/v2).
 
 
@@ -10,7 +10,7 @@ Many linux distributions including those on WSL have Git pre-installed. Type `gi
 ## Clone the module repository on WEISSLab
 Make a local copy of the entire repository hosted on the remote WEISSLab, e.g. remote repository -> local repository.
 ```bash
-git clone https://weisslab.cs.ucl.ac.uk/WEISSTeaching/mphy0030
+git clone https://weisslab.cs.ucl.ac.uk/yipenghu/mphy0030
 ```
 
 Change the current directory to the repository folder, then update to the latest code.
