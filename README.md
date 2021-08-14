@@ -28,8 +28,7 @@ Miniconda or Anaconda is recommended to set up the Python development environmen
 conda create --name mphy0030 numpy scipy matplotlib 
 ```
 
->MATLAB environment
-MATLAB is a proprietary multi-paradigm programming language and numerical computing environment developed by MathWorks. Some tutorials are also have MATLAB code for reference purposes. Also see the [supported development environment for MATLAB](./docs/dev_env_matlab.md).
+>MATLAB is a proprietary multi-paradigm programming language and numerical computing environment developed by MathWorks. Some tutorials are also have MATLAB code for reference purposes. Also see the [supported development environment for MATLAB](./docs/dev_env_matlab.md).
 
 ### Image filtering 3d
 Efficient high-dimensional image filtering  
