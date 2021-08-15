@@ -1,6 +1,6 @@
-# Paralell computing using PyTorch
+# Parallel computing using PyTorch
 
-The demo for guest lecture "Paralell computing using PyTorch", by Qianye Yang.
+The demo for guest lecture "Parallel computing using PyTorch", by Qianye Yang.
 
 ## Contents
 
