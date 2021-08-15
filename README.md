@@ -5,19 +5,15 @@ Term 1 Academic Year 2021/22
 **Module lead**  
 Yipeng Hu (yipeng.hu@ucl.ac.uk)  
 
-**Tutors**
-Zachary Baum      | zachary.baum.19@ucl.ac.uk
-Qianye Yang	      | qianye.yang.19@ucl.ac.uk
-Adria Casamitjana | a.casamitjana@ucl.ac.uk
+**Tutors**  
+Zachary Baum      | zachary.baum.19@ucl.ac.uk  
+Qianye Yang	      | qianye.yang.19@ucl.ac.uk  
+Adria Casamitjana | a.casamitjana@ucl.ac.uk  
 
 
 ## Development environments 
-There is no requirement, in tutorials or assessed coursework, for what the development environment that needs to be used. However, technical support from this module is available for the setups detailed in the following documents, under `docs` folder.
+There is no requirement, in tutorials or assessed coursework, for what the development environment or tools that need to be used. However, technical support from this module is available for the setups detailed in the following documents, under `docs` folder.
 - [Supported development environment for Python](./docs/dev_env_python.md)
-
-
-## Tutorials
-These are the tutorials under the `tutorials` folder using Python/MATLAB, with optionally assessed questions.
 
 ### Python environment
 The tutorials require a few dependencies, numpy, scipy, matplotlib. Individual tutorials may also require other libraries which will be specified in the readme.md in individual tutorial folders (see links below).
@@ -27,7 +23,12 @@ Miniconda or Anaconda is recommended to set up the Python development environmen
 conda create --name mphy0030 numpy scipy matplotlib 
 ```
 
->MATLAB is a proprietary multi-paradigm programming language and numerical computing environment developed by MathWorks. Some tutorials are also have MATLAB code for those who have experience in MATLAB. Also see the [supported development environment for MATLAB](./docs/dev_env_matlab.md).
+
+## Tutorials
+These are the tutorials under the [`tutorials`](./tutorials/) folder using Python, with optionally assessed questions.
+
+>MATLAB is a proprietary multi-paradigm programming language and numerical computing environment developed by MathWorks. Some tutorials are also additionally with MATLAB code for those who have relevant experience. See the [supported development environment for MATLAB](./docs/dev_env_matlab.md).
+
 
 ### Image filtering 3d
 Efficient high-dimensional image filtering  
