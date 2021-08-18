@@ -1,6 +1,6 @@
 # MPHY0030: Programming Foundations for Medical Image Analysis 
-
-Term 1 Academic Year 2021/22 
+UCL Module, Department of Medical Physics and Biomedical Engineering
+>Term 1 (Autumn), 2021-22 Academic Year 
 
 **Module lead**  
 Yipeng Hu (yipeng.hu@ucl.ac.uk)  
