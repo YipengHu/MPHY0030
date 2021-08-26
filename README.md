@@ -6,9 +6,12 @@ Term 1 Academic Year 2021/22
 Yipeng Hu (yipeng.hu@ucl.ac.uk)  
 
 **Tutors**  
+Zhe Min           | z.min@ucl.ac.uk  
 Zachary Baum      | zachary.baum.19@ucl.ac.uk  
 Qianye Yang	      | qianye.yang.19@ucl.ac.uk  
 Adria Casamitjana | a.casamitjana@ucl.ac.uk  
+Adam Doherty      | adam.doherty@ucl.ac.uk  
+Shaheer Saeed     | shaheer.saeed.17@ucl.ac.uk  
 
 
 ## Development environments 
@@ -22,6 +25,9 @@ Miniconda or Anaconda is recommended to set up the Python development environmen
 ```bash
 conda create --name mphy0030 numpy scipy matplotlib 
 ```
+
+## Python refresher course
+Materials accompanying a short Python programming, by Dr Zhe Min, can also be found in the `tutorials` folder.
 
 
 ## Tutorials
