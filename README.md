@@ -14,7 +14,7 @@ Adam Doherty      | adam.doherty@ucl.ac.uk
 Shaheer Saeed     | shaheer.saeed.17@ucl.ac.uk  
 
 
-## Development environments 
+## 1. Development environment 
 There is no requirement, in tutorials or assessed coursework, for what the development environment or tools that need to be used. However, technical support from this module is available for the setups detailed in the following documents, under `docs` folder.
 - [Supported development environment for Python](./docs/dev_env_python.md)
 
@@ -26,11 +26,11 @@ Miniconda or Anaconda is recommended to set up the Python development environmen
 conda create --name mphy0030 numpy scipy matplotlib 
 ```
 
-## Python refresher course
+## 2. Python refresher course
 Materials accompanying a short Python programming, by Dr Zhe Min, can also be found in the `tutorials` folder.
 
 
-## Tutorials
+## 3. Tutorials
 These are the tutorials under the [`tutorials`](./tutorials/) folder using Python, with optionally assessed questions.
 
 >MATLAB is a proprietary multi-paradigm programming language and numerical computing environment developed by MathWorks. Some tutorials are also additionally with MATLAB code for those who have relevant experience. See the [supported development environment for MATLAB](./docs/dev_env_matlab.md).
