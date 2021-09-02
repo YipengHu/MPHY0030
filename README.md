@@ -10,7 +10,6 @@ Zhe Min           | z.min@ucl.ac.uk
 Zachary Baum      | zachary.baum.19@ucl.ac.uk  
 Qianye Yang	      | qianye.yang.19@ucl.ac.uk  
 Adria Casamitjana | a.casamitjana@ucl.ac.uk  
-Adam Doherty      | adam.doherty@ucl.ac.uk  
 Shaheer Saeed     | shaheer.saeed.17@ucl.ac.uk  
 
 
