@@ -2,8 +2,9 @@
 
 ## Operating system
 - Linux is supported, e.g. Ubuntu and Debian.
-- Windows is supported with [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10). Follow the link to install either WSL 1 or 2, to get an Linux Terminal (if unsure, choose any version of Ubuntu).
+- Windows is supported with [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10). Follow the link to install either WSL 1 or 2. If unsure, choose any version of Ubuntu.
 >**Note:** Developing Python natively on Windows is also popular, for example, using [Microsoft Store app Python](https://docs.microsoft.com/en-us/windows/python/beginners). However, technical support will not be available from this module.
+>**Note for COMP0090:** Windows users without WSL are likely having package version conflicts, following the instructions in the module repo.
 - Chrome OS is supported with its [Linux turned on](https://chromeos.dev/en/linux/setup).
 - MacOS is partially supported on its Terminal.
 
@@ -11,6 +12,7 @@
 ## Virtual environment
 For tutorials and coursework, external libraries and packages will be useful. There are numerous ways to manage your development environment. This module supports the use of Miniconda or its superset Anaconda.
 - [Install Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
+
 
 
 ## Install Visual Studio Code
