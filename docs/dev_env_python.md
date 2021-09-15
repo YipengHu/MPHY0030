@@ -4,6 +4,7 @@
 - Linux is supported, e.g. Ubuntu and Debian.
 - Windows is supported with [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10). Follow the link to install either WSL 1 or 2. If unsure, choose any version of Ubuntu.
 >**Note:** Developing Python natively on Windows is also popular, for example, using [Microsoft Store app Python](https://docs.microsoft.com/en-us/windows/python/beginners). However, technical support will not be available from this module.
+
 >**Note for COMP0090:** Windows users without WSL are likely having package version conflicts, following the instructions in the module repo.
 - Chrome OS is supported with its [Linux turned on](https://chromeos.dev/en/linux/setup).
 - MacOS is partially supported on its Terminal.
