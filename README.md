@@ -6,12 +6,13 @@ UCL Module | [MPBE](https://www.ucl.ac.uk/medical-physics-biomedical-engineering
 Yipeng Hu (yipeng.hu@ucl.ac.uk)  
 
 **Tutors**  
-Zhe Min               | z.min@ucl.ac.uk  
-Zachary Baum          | zachary.baum.19@ucl.ac.uk  
 Qianye Yang	          | qianye.yang.19@ucl.ac.uk  
-Adria Casamitjana     | a.casamitjana@ucl.ac.uk  
+Zhe Min               | z.min@ucl.ac.uk  
+Fernando Perez-Garcia | fernando.perezgarcia.17@ucl.ac.uk  
 Shaheer Saeed         | shaheer.saeed.17@ucl.ac.uk  
-Fernando Perez-Garcia | fernando.perezgarcia.17@ucl.ac.uk
+Zachary Baum          | zachary.baum.19@ucl.ac.uk  
+Adria Casamitjana     | a.casamitjana@ucl.ac.uk  
+Mark Pinnock          | mark.pinnock.18@ucl.ac.uk
 
 
 ## 1. Development environment 
