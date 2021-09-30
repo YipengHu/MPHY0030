@@ -28,7 +28,7 @@ conda create --name mphy0030 numpy scipy matplotlib
 ```
 
 ## 2. Python refresher course
-Materials accompanying a short Python programming, by Dr Zhe Min, can also be found in the `tutorials` folder.
+This mini-course has two parts: Python programming, by Dr Zhe Min, and scientific computing, by Fernando Perez-Garcia. Materials can also be found in the `tutorials` folder.
 
 
 ## 3. Tutorials
