@@ -47,7 +47,7 @@ img1 = median_filter(img0.astype(dtype_in_use),size=(7,7))
 Image.fromarray(img1.astype('uint8')).save('median_7by7.png')
 
 
-## Differentiating
+## Differentiation
 img1 = sobel(img0.astype(dtype_in_use),axis=0)
 Image.fromarray(img1.astype('uint8')).save('sobel_d0.png')
 img1 = sobel(img0.astype(dtype_in_use),axis=1)
@@ -67,3 +67,13 @@ img1 = gaussian_filter1d(img0.astype(dtype_in_use),sigma=3,order=1,axis=0)
 Image.fromarray(img1.astype('uint8')).save('derivative_s3_d0.png')
 img1 = gaussian_filter1d(img0.astype(dtype_in_use),sigma=3,order=1,axis=1)
 Image.fromarray(img1.astype('uint8')).save('derivative_s3_d1.png')
+
+img1 = gaussian_filter1d(img0.astype(dtype_in_use),sigma=1,order=2,axis=0)
+Image.fromarray(img1.astype('uint8')).save('laplacian_s1_d0.png')
+img1 = gaussian_filter1d(img0.astype(dtype_in_use),sigma=1,order=2,axis=1)
+Image.fromarray(img1.astype('uint8')).save('laplacian_s1_d1.png')
+
+img1 = gaussian_filter1d(img0.astype(dtype_in_use),sigma=3,order=2,axis=0)
+Image.fromarray(img1.astype('uint8')).save('laplacian_s3_d0.png')
+img1 = gaussian_filter1d(img0.astype(dtype_in_use),sigma=3,order=2,axis=1)
+Image.fromarray(img1.astype('uint8')).save('laplacian_s3_d1.png')
