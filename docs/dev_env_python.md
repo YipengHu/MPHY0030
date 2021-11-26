@@ -11,7 +11,7 @@
 
 
 ## Virtual environment
-For tutorials and coursework, external libraries and packages will be useful. There are numerous ways to manage your development environment. This module supports the use of Miniconda or its superset Anaconda.
+For tutorials and coursework, external libraries and packages will be useful. There are numerous ways to manage your development environment. This module supports the use of Miniconda or its superset Anaconda (terminal only). For WSL user, install miniconda in WSL first.
 - [Install Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
 
 
