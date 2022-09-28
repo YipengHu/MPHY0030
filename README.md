@@ -1,19 +1,17 @@
 # MPHY0030: Programming Foundations for Medical Image Analysis 
-UCL Module | [MPBE](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/) | [UCL Moodle Page](https://moodle.ucl.ac.uk/course/view.php?id=6306)
->Term 1 (Autumn), Academic Year 2021-22 
+UCL Module | [MPBE](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/) | [UCL Moodle Page](https://moodle.ucl.ac.uk/course/view.php?id=32102)
+>Term 1 (Autumn), Academic Year 2022-23; 
 
 **Module lead**  
 Yipeng Hu (yipeng.hu@ucl.ac.uk)  
 
 **Tutors**  
-Qianye Yang	          | qianye.yang.19@ucl.ac.uk  
 Zhe Min               | z.min@ucl.ac.uk  
-Fernando Perez-Garcia | fernando.perezgarcia.17@ucl.ac.uk  
 Shaheer Saeed         | shaheer.saeed.17@ucl.ac.uk  
+Qianye Yang	          | qianye.yang.19@ucl.ac.uk  
 Zachary Baum          | zachary.baum.19@ucl.ac.uk  
-Adria Casamitjana     | a.casamitjana@ucl.ac.uk  
 Mark Pinnock          | mark.pinnock.18@ucl.ac.uk
-
+Xiangcen Wu           | xiangcen.wu.21@ucl.ac.uk
 
 ## 1. Development environment 
 There is no requirement, in tutorials or assessed coursework, for what the development environment or tools that need to be used. However, technical support from this module is available for the setups detailed in the following documents, under `docs` folder.
@@ -60,6 +58,7 @@ Display graphics overlaid with 3d medical imges
 [Tutorial][augmented_reality]
 
 [augmented_reality]: ./tutorials/augmented_reality/readme.md
+
 
 ### 3DSlicer: Open-Source Medical Image Computing
 by Zachary Baum
