@@ -1,6 +1,6 @@
 # MPHY0030: Programming Foundations for Medical Image Analysis 
 UCL Module | [MPBE](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/) | [UCL Moodle Page](https://moodle.ucl.ac.uk/course/view.php?id=32102)
->Term 1 (Autumn), Academic Year 2022-23; 
+>Term 1 (Autumn), Academic Year 2022-23  
 
 **Module lead**  
 Yipeng Hu (yipeng.hu@ucl.ac.uk)  
