@@ -3,11 +3,11 @@
 ## Operating system
 - Linux is supported, e.g. Ubuntu and Debian.
 - Windows is supported with [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10). Follow the link to install either WSL 1 or 2. If unsure, choose any version of Ubuntu.
->**Note:** Developing Python natively on Windows is also popular, for example, using [Microsoft Store app Python](https://docs.microsoft.com/en-us/windows/python/beginners). However, technical support will not be available from this module.
+>**Note:** Developing Python natively on Windows, for example, using [Microsoft Store app Python](https://docs.microsoft.com/en-us/windows/python/beginners). However, technical support will not be available from this module.
 
->**Note for COMP0090 and MPHY0041:** Windows users without WSL are likely having package version conflicts.
+>**Note for COMP0197 and MPHY0041:** Windows users without WSL are likely having package version conflicts.
 - Chrome OS is supported with its [Linux turned on](https://chromeos.dev/en/linux/setup).
-- MacOS is not supported. As a workaround, a Docker image based on Ubuntu will be provided for individual use cases.  
+- MacOS is not supported. As a workaround, consider a Docker image based on Ubuntu.  
 
 
 ## Virtual environment

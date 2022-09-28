@@ -1,4 +1,4 @@
-# Supported development environment for MATLAB
+# Supported development environment for MATLAB (Obsolete, will be removed in future revision)
 
 ## Operating system
 - MATLAB is a cross-platform application, which can be installed on almost all major operating systems, Linux, Windows, MacOS and Chrome OS (within its Linux).  

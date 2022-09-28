@@ -10,7 +10,7 @@ Zhe Min               | z.min@ucl.ac.uk
 Shaheer Saeed         | shaheer.saeed.17@ucl.ac.uk  
 Qianye Yang	          | qianye.yang.19@ucl.ac.uk  
 Zachary Baum          | zachary.baum.19@ucl.ac.uk  
-Mark Pinnock          | mark.pinnock.18@ucl.ac.uk
+Mark Pinnock          | mark.pinnock.18@ucl.ac.uk  
 Xiangcen Wu           | xiangcen.wu.21@ucl.ac.uk
 
 ## 1. Development environment 
@@ -26,13 +26,13 @@ conda create --name mphy0030 numpy scipy matplotlib
 ```
 
 ## 2. Python refresher course
-This mini-course has two parts: Python programming, by Dr Zhe Min, and scientific computing, by Fernando Perez-Garcia. Materials can also be found in the `tutorials` folder.
+This mini-course has two parts: Python programming, by Zhe Min, and scientific computing, by Shaheer Saeed. Materials can also be found in the `tutorials` folder.
 
 
 ## 3. Tutorials
 These are the tutorials under the [`tutorials`](./tutorials/) folder using Python, with optionally assessed questions.
 
->MATLAB is a proprietary multi-paradigm programming language and numerical computing environment developed by MathWorks. Some tutorials are also additionally with MATLAB code for those who have relevant experience. See the [supported development environment for MATLAB](./docs/dev_env_matlab.md).
+>MATLAB is a proprietary multi-paradigm programming language and numerical computing environment developed by MathWorks. Some tutorials are also additionally with MATLAB code for those who have relevant experience. 
 
 
 ### Image filtering 3d

@@ -15,11 +15,11 @@ git clone https://weisslab.cs.ucl.ac.uk/yipenghu/mphy0030
 
 Change the current directory to the repository folder, then update to the latest code.
 ```bash
-cd mhy0030
+cd mphy0030
 git pull
 ```
 
-## Complete the module coursework on GitHub
+## Optional: Complete the module coursework on GitHub
 
 ### Set up a GitHub account
 If you do not have one, sign up for a GitHub account at [github.com](https://github.com/).
