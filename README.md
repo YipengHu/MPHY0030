@@ -3,7 +3,7 @@ UCL Module | [MPBE](https://www.ucl.ac.uk/medical-physics-biomedical-engineering
 >Term 1 (Autumn), Academic Year 2023-24  
 
 
-Yipeng Hu       | yipeng.hu@ucl.ac.uk        | Lead and lecture  
+Yipeng Hu       | yipeng.hu@ucl.ac.uk        | Lead and lecturer  
 Shaheer U Saeed | shaheer.saeed.17@ucl.ac.uk | lecturer and tutor  
 Xiangcen Wu     | xiangcen.wu.21@ucl.ac.uk   | tutor  
 Yipei Wang      | yipei.wang@ucl.ac.uk       | tutor  
