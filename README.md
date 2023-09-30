@@ -2,10 +2,12 @@
 UCL Module | [MPBE](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/) | [UCL Moodle Page](https://moodle.ucl.ac.uk/course/view.php?id=36440)
 >Term 1 (Autumn), Academic Year 2023-24  
 
+
 Yipeng Hu       | yipeng.hu@ucl.ac.uk        | Lead and lecture  
-Shaheer U Saeed | shaheer.saeed.17@ucl.ac.uk | lecturer and tutor
-Xiangcen Wu     | xiangcen.wu.21@ucl.ac.uk   | tutor
-Yipei Wang      | yipei.wang@ucl.ac.uk       | tutor
+Shaheer U Saeed | shaheer.saeed.17@ucl.ac.uk | lecturer and tutor  
+Xiangcen Wu     | xiangcen.wu.21@ucl.ac.uk   | tutor  
+Yipei Wang      | yipei.wang@ucl.ac.uk       | tutor  
+
 
 ## 1. Development environment 
 There is no requirement, in tutorials or assessed coursework, for what the development environment or tools that need to be used. However, technical support from this module is available for the setups detailed in the following documents, under `docs` folder.
