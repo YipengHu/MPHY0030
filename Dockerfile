@@ -14,7 +14,7 @@ RUN conda init bash
 ENV PATH="/root/miniconda3/bin:$PATH"
 
 # clone the repo in "/workspace"
-RUN git clone https://weisslab.cs.ucl.ac.uk/YipengHu/mphy0030 workspace/mphy0030
+RUN git clone https://github.com/YipengHu/MPHY0030 workspace/mphy0030
 WORKDIR /workspace
 
 # create the tutorial/coursework conda environment "mphy0030"

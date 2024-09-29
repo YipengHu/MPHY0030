@@ -1,31 +1,33 @@
 # Supported development environment for Python
 
 ## Operating system
-- Linux is supported, e.g. Ubuntu and Debian.
-- Windows is supported with [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10). Follow the link to install either WSL 1 or 2. If unsure, choose any version of Ubuntu.
->**Note:** Developing Python natively on Windows, for example, using [Microsoft Store app Python](https://docs.microsoft.com/en-us/windows/python/beginners). However, technical support will not be available from this module.
+- Linux is supported, e.g. Ubuntu, Debian and their variants.
+- Windows is supported with [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install). Follow the link to install WSL, and to get an Linux Terminal (if unsure, choose any version of Ubuntu). You can access your Windows files at `/mnt`, often `/mnt/c`.
+>**Note:** Developing Python natively on Windows, e.g. using [Microsoft Store app Python](https://docs.microsoft.com/en-us/windows/python/beginners) or [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html), is possible and preferable by some. However, technical support will not be available from this module.
 
 >**Note for COMP0197 and MPHY0041:** Windows users without WSL are likely having package version conflicts.
 - Chrome OS is supported with its [Linux turned on](https://chromeos.dev/en/linux/setup).
-- MacOS is not supported. As a workaround, consider a Docker image based on Ubuntu.  
+- MacOS is experimentally supported. Please get in touch with the tutors if you need assistance setting up the development environment on your Mac.
 
 
 ## Virtual environment
-For tutorials and coursework, external libraries and packages will be useful. There are numerous ways to manage your development environment. This module supports the use of Miniconda or its superset Anaconda (terminal only). For WSL user, **install miniconda in WSL** first.
-- [Install Miniconda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/).
+For tutorials and coursework, external libraries and packages will be useful. There are many ways to manage your development environment. This module supports the use of Miniconda or its superset Anaconda (terminal only). For WSL user, **install miniconda in WSL** first.
+- [Install Miniconda](https://docs.anaconda.com/miniconda/).
 
 
 
 ## Install Visual Studio Code
-There are many IDEs or powerful code editors supporting Python. Technical support is available for Visual Studio Code.  
-- Install [Microsoft Visual Studio Code](https://code.visualstudio.com/) by following the relevant instruction in the link.  
+There are also many IDEs or code editors supporting Python. Technical support is available for Visual Studio Code.  
+- Install [Microsoft Visual Studio Code](https://code.visualstudio.com/docs).  
 >**Note:** For working on WSL on Windows, you may need to add [remote development extension](https://code.visualstudio.com/docs/remote/wsl).
 
 - Add the [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python). This can be done in the VSC Extensions (Ctrl+Shift+X).
 
 
+
 ## Go through an example
 For example, you can find a step-by-step [tutorial in the VSC documentation](https://code.visualstudio.com/docs/python/python-tutorial).
+
 
 ## Tutorials
 To get started with Python, it is recommended to go through at least one of the following options, for what is needed in this module.

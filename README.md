@@ -1,12 +1,13 @@
 # MPHY0030: Programming Foundations for Medical Image Analysis 
-UCL Module | [MPBE](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/) | [UCL Moodle Page](https://moodle.ucl.ac.uk/course/view.php?id=36440)
->Term 1 (Autumn), Academic Year 2023-24  
+UCL Module | [MPBE](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/) | [UCL Moodle Page](https://moodle.ucl.ac.uk/course/view.php?id=44994)
+>Term 1 (Autumn), Academic Year 2024-25  
 
 
 Yipeng Hu       | yipeng.hu@ucl.ac.uk        | Lead and lecturer  
 Shaheer U Saeed | shaheer.saeed.17@ucl.ac.uk | lecturer and tutor  
-Xiangcen Wu     | xiangcen.wu.21@ucl.ac.uk   | tutor  
 Yipei Wang      | yipei.wang@ucl.ac.uk       | tutor  
+Xiangcen Wu     | xiangcen.wu.21@ucl.ac.uk   | tutor  
+Yunzhe Li       | yunzhe.li.22@ucl.ac.uk     | tutor  
 
 
 ## 1. Development environment 
@@ -22,7 +23,7 @@ conda create --name mphy0030 numpy scipy matplotlib
 ```
 
 ## 2. Python refresher course
-This mini-course has two parts: Python programming, by Zhe Min, and scientific computing, by Shaheer Saeed. Materials can also be found in the `tutorials` folder.
+This mini-course has two parts, Python programming and scientific computing, by Shaheer Saeed. Materials can also be found in the [`tutorials`](./tutorials/) folder.
 
 
 ## 3. Tutorials
@@ -56,23 +57,26 @@ Display graphics overlaid with 3d medical imges
 [augmented_reality]: ./tutorials/augmented_reality/readme.md
 
 
+## *Legacy materials
+The [`legacy`](./tutorials/legacy/) folder contains several tutorials used in previous years for expanding knowledge of the students who are interested in. For example:  
+
 ### 3DSlicer: Open-Source Medical Image Computing
 by Zachary Baum
 The demo for guest lecture "Use existing open-source for visualizations in Jupyter Notebooks"
 [Tutorial][3d_slicer_jupyter]
 
-[3d_slicer_jupyter]: ./tutorials/3d_slicer_jupyter/readme.md
+[3d_slicer_jupyter]: ./tutorials/legacy/3d_slicer_jupyter/readme.md
 
 ### Parallel computing using PyTorch
 by Qianye Yang  
 The demo for guest lecture "Parallel computing using PyTorch"  
 [Tutorial][pytorch_parallel_computing]
 
-[pytorch_parallel_computing]: ./tutorials/pytorch_parallel_computing/readme.md
+[pytorch_parallel_computing]: ./tutorials/legacy/pytorch_parallel_computing/readme.md
 
 ### Spatial transformations
 by Adria Casamitjana  
 The demo for guest lecture "Spatial transformations and resampling"  
 [Tutorial][spatial_transformations]
 
-[spatial_transformations]: ./tutorials/spatial_transformations/readme.md
+[spatial_transformations]: ./tutorials/legacy/spatial_transformations/readme.md
