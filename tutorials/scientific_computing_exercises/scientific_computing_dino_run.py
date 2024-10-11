@@ -42,6 +42,14 @@ import numpy as np
 import pyautogui as pg
 import matplotlib.pyplot as plt
 
+# use this to open webbrowser version of dino game
+# import webbrowser
+# url = r'https://chromedino.com/'
+# webbrowser.open_new_tab(url)
+
+# use this to open python version of dino game
+# import os
+# os.system(r'python chromedino.py &')
 
 time.sleep(5)
 sc = pg.screenshot()
