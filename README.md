@@ -3,11 +3,11 @@ UCL Module | [MPBE](https://www.ucl.ac.uk/medical-physics-biomedical-engineering
 >Term 1 (Autumn), Academic Year 2024-25  
 
 
-Yipeng Hu       | yipeng.hu@ucl.ac.uk        | Lead and lecturer  
-Shaheer U Saeed | shaheer.saeed.17@ucl.ac.uk | lecturer and tutor  
-Yipei Wang      | yipei.wang@ucl.ac.uk       | tutor  
-Xiangcen Wu     | xiangcen.wu.21@ucl.ac.uk   | tutor  
+Yipeng Hu       | yipeng.hu@ucl.ac.uk        | Lead   
+Shaheer U Saeed | shaheer.saeed.17@ucl.ac.uk | lecturer  
 Yunzhe Li       | yunzhe.li.22@ucl.ac.uk     | tutor  
+Bilal Sidiqi    | bilal.sidiqi.21@ucl.ac.uk  | tutor  
+Maruf Talukdar  | zcapmta@ucl.ac.uk          | tutor  
 
 
 ## 1. Development environment 
@@ -17,9 +17,16 @@ There is no requirement, in tutorials or assessed coursework, for what the devel
 ### Python environment
 The tutorials require a few dependencies, numpy, scipy, matplotlib. Individual tutorials may also require other libraries which will be specified in the readme.md in individual tutorial folders (see links below).
 
-Miniconda or Anaconda is recommended to set up the Python development environment.
+Creating and using a virtual environment is recommended when setting up the Python development environment. For example:
 ```bash
-conda create --name mphy0030 numpy scipy matplotlib 
+python3 -m venv mphy0030
+source mphy0030/bin/activate
+python -m pip install --upgrade pip
+pip install numpy scipy matplotlib
+```
+When you are finished, you can deactivate the environment or before switching/creating a new one:
+```bash
+deactivate
 ```
 
 ## 2. Python refresher course
