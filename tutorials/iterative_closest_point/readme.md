@@ -4,16 +4,8 @@ This is a point registration algorithm, estimating a rigid transformation betwee
 
 ## Python
 ```bash 
-cd python  
 python script_icp.py  
 ```
 
 You should then be able to align two point clouds representing prostate glands.
 ![icp_prostate](data/icp_prostate.jpg)
-
-
-## MATLAB
-```bash
-cd matlab  
-matlab -nodesktop -r script_icp  
-```
