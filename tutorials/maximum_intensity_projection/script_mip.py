@@ -10,7 +10,7 @@ from scipy.interpolate import interpn
 # 1-j -> anterior->posterior
 # 0-i -> right->left (drr_x)
 # 2-k -> superior->caudal (drr_y)
-mat_data = loadmat('../data/test_lung_ct.mat')
+mat_data = loadmat('./data/test_lung_ct.mat')
 vol = mat_data['vol'].astype('float16')  # plt.imshow(vol[:100,:,100])
 voxdims = mat_data['voxdims'][0]
 
@@ -68,4 +68,4 @@ DRR = np.amax(samples,axis=2)
 # plt.show()
 
 ## save to a file
-plt.imsave('../data/drr_python.png',DRR,cmap='gray')
+plt.imsave('./data/drr_python.png',DRR,cmap='gray')

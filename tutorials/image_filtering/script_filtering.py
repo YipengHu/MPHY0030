@@ -9,7 +9,7 @@ from scipy.ndimage import prewitt
 from scipy.ndimage import gaussian_filter1d
 
 
-IMG_FILE = '../data/mri_prostate.dat'
+IMG_FILE = './data/mri_prostate.dat'
 
 dtype_in_use = 'float32'
 

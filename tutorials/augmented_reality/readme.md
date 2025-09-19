@@ -9,7 +9,6 @@ pip install simpleitk scikit-image numpy-stl
 
 Then you can run the script.
 ```bash 
-cd python  
 python script_ar.py  
 ```
 

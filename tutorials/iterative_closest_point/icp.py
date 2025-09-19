@@ -17,7 +17,7 @@ class IterativeClosestPoint:
 
     def register(self):
         self.transform[3,:] = np.mean(self.pointset_x,axis=0) - np.mean(self.pointset_y,axis=0)
-        tmp_dist = np.Inf
+        tmp_dist = np.inf
         for ii in range(self.maxIter+1):
             # apply current transform
             tmp_pointset_y = self.apply_transform(self.pointset_y, self.transform)

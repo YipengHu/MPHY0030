@@ -3,7 +3,7 @@ from PIL import Image
 
 
 # read an image
-IMG_FILE = '../data/mri_prostate.dat'
+IMG_FILE = './data/mri_prostate.dat'
 img0 = np.genfromtxt(IMG_FILE,delimiter=',',dtype='uint8')
 M, N = img0.shape
 
