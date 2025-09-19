@@ -1,6 +1,6 @@
 # MPHY0030: Programming Foundations for Medical Image Analysis 
-UCL Module | [MPBE](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/) | [UCL Moodle Page](https://moodle.ucl.ac.uk/course/view.php?id=44994)
->Term 1 (Autumn), Academic Year 2024-25  
+UCL Module | [MPBE](https://www.ucl.ac.uk/medical-physics-biomedical-engineering/) | [UCL Moodle Page](https://moodle.ucl.ac.uk/)
+>Term 1 (Autumn)  
 
 
 Yipeng Hu       | yipeng.hu@ucl.ac.uk        | Lead   
@@ -65,25 +65,4 @@ Display graphics overlaid with 3d medical imges
 
 
 ## *Legacy materials
-The [`legacy`](./tutorials/legacy/) folder contains several tutorials used in previous years for expanding knowledge of the students who are interested in. For example:  
-
-### 3DSlicer: Open-Source Medical Image Computing
-by Zachary Baum
-The demo for guest lecture "Use existing open-source for visualizations in Jupyter Notebooks"
-[Tutorial][3d_slicer_jupyter]
-
-[3d_slicer_jupyter]: ./tutorials/legacy/3d_slicer_jupyter/readme.md
-
-### Parallel computing using PyTorch
-by Qianye Yang  
-The demo for guest lecture "Parallel computing using PyTorch"  
-[Tutorial][pytorch_parallel_computing]
-
-[pytorch_parallel_computing]: ./tutorials/legacy/pytorch_parallel_computing/readme.md
-
-### Spatial transformations
-by Adria Casamitjana  
-The demo for guest lecture "Spatial transformations and resampling"  
-[Tutorial][spatial_transformations]
-
-[spatial_transformations]: ./tutorials/legacy/spatial_transformations/readme.md
+The [`legacy`](./tutorials/legacy/) folder contains several tutorials used in previous years for expanding knowledge of the students who are interested in.
