@@ -4,7 +4,7 @@ import SimpleITK as sitk
 from skimage.measure import marching_cubes
 from stl import mesh
 
-# image_id = sitk.ReadImage("../data/image.nii.gz", imageIO="NiftiImageIO")
+# image_id = sitk.ReadImage("data/image.nii.gz", imageIO="NiftiImageIO")
 # image = sitk.GetArrayFromImage(image_id)
 # vox_dims = image_id.GetSpacing()
 mask_id = sitk.ReadImage("data/masks.nii.gz", imageIO="NiftiImageIO")
@@ -26,4 +26,4 @@ for ii in range(masks.shape[0]):
     for i, f in enumerate(faces):
         for j in range(3):
             roi.vectors[i][j] = vertices[f[j],:]
-    roi.save('../data/roi%02d.stl' % ii)
+    roi.save('data/roi%02d.stl' % ii)
