@@ -14,4 +14,4 @@ python script_ar.py
 
 Then use any medical image viewer to load the image and the surface model data. The 3D slicer displays it as below.  
 
-![augmented_ct](./python/slicer_display.jpg)
+![augmented_ct](./slicer_display.jpg)
