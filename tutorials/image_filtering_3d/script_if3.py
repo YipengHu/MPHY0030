@@ -4,7 +4,7 @@ import numpy as np
 import SimpleITK as sitk 
 
 # read in image
-itk_image = sitk.ReadImage("../data/cardiac_t2.nii.gz", imageIO="NiftiImageIO")
+itk_image = sitk.ReadImage("data/cardiac_t2.nii.gz", imageIO="NiftiImageIO")
 image = sitk.GetArrayFromImage(itk_image).astype(np.float32)
 
 # generate a 1-d Gaussian kernel 
@@ -29,7 +29,7 @@ for j in range(image.shape[1]):
 # save the filtred image
 itk_image_f = sitk.GetImageFromArray(image.astype(np.uint8))
 itk_image_f.CopyInformation(itk_image)  # get information from the original image header
-filename = "../data/cardiac_t2_python.nii.gz"
+filename = "data/cardiac_t2_python.nii.gz"
 sitk.WriteImage(itk_image_f, filename, imageIO="NiftiImageIO")
 
 print('Filtered image is saved %s.' % filename)
