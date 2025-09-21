@@ -7,7 +7,7 @@ from stl import mesh
 # image_id = sitk.ReadImage("../data/image.nii.gz", imageIO="NiftiImageIO")
 # image = sitk.GetArrayFromImage(image_id)
 # vox_dims = image_id.GetSpacing()
-mask_id = sitk.ReadImage("../data/masks.nii.gz", imageIO="NiftiImageIO")
+mask_id = sitk.ReadImage("data/masks.nii.gz", imageIO="NiftiImageIO")
 masks = sitk.GetArrayFromImage(mask_id)
 vox_dims = mask_id.GetSpacing()
 
