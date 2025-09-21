@@ -22,7 +22,7 @@ Creating and using a virtual environment is recommended when setting up the Pyth
 python3 -m venv mphy0030
 source mphy0030/bin/activate
 python -m pip install --upgrade pip
-pip install numpy scipy matplotlib
+pip install numpy scipy matplotlib notebook
 ```
 When you are finished, you can deactivate the environment or before switching/creating a new one:
 ```bash

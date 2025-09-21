@@ -7,7 +7,7 @@ Statistical shape models (SSM), especially those based on principal component an
 ## Workshop
 This workshop uses a UCL-developed [clinical application][Hu et al] in minimally-invasive prostate cancer intervention as an example. The goals of this hands-on-workshop are as follows,
 1) to demonstrate an organ motion model used in real-world application; 
-2) to implement the powerful PCA in python;
+2) to implement PCA in python;
 3) to test a simplified data fusion algorithm and to visualise the results.
 
 
@@ -17,8 +17,12 @@ This workshop uses a UCL-developed [clinical application][Hu et al] in minimally
 [Hu et al]: http://www.medicalimageanalysisjournal.com/article/S1361-8415(10)00129-5/pdf
 
 
-## Software
-By now, it is assumed that everyone is familier with jupyter notebook and python. The python libraries (NumPy and matplotlib) needed for this workshop are also included in Anaconda, otherwise for power users, are easy to install along the way. Run the following sections in order.
+## Development environment
+With Jupyter Notebook and Python libraries, NumPy and matplotlib, included in venv environment, run the following sections in order by selecting and open the ipynb files.
+```bash
+source mphy0030/bin/activate
+jupyter notebook
+```
 
 
 ## [01-Data][data]
