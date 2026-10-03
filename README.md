@@ -3,11 +3,9 @@ UCL Module | [MPBE](https://www.ucl.ac.uk/medical-physics-biomedical-engineering
 >Term 1 (Autumn)  
 
 
-Yipeng Hu       | yipeng.hu@ucl.ac.uk        | Lead   
-Shaheer U Saeed | shaheer.saeed.17@ucl.ac.uk | lecturer  
-Yunzhe Li       | yunzhe.li.22@ucl.ac.uk     | tutor  
-Bilal Sidiqi    | bilal.sidiqi.21@ucl.ac.uk  | tutor  
-Maruf Talukdar  | zcapmta@ucl.ac.uk          | tutor  
+Yipeng Hu | yipeng.hu@ucl.ac.uk | Lead   
+Wen Yan   | wen-yan@ucl.ac.uk   | lecturer  
+
 
 
 ## 1. Development environment 
